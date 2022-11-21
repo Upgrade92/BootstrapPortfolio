@@ -122,11 +122,6 @@ span{
 	  animation: titleflip 10s ease-in-out infinite;
     
 		}
-  
-  #upgrade_logo{
-    height: 2.5rem;
-     border-radius: 50%;
-  }
 
 	
 	@keyframes titleflip {
