@@ -1,4 +1,8 @@
 
+element{
+  --style-bg-color: red;
+}
+
 body{
     background-color: rgb(30, 30, 30);
     color: white;
@@ -40,6 +44,7 @@ body{
   border-radius: 2rem;
   backdrop-filter: blur(5rem);
 }
+
 
 span{
     color: red;
